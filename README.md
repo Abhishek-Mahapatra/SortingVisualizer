@@ -1,1 +1,2 @@
 # SortingVisualizer
+This is a project to visualize the different sorting algorithms, namely Bubble Sort, Quick Sort, Heap Sort, Selection Sort, Merge Sort and Insertion Sort. The project allows user to differ the size of array to be sorted as well as the speed of visulaization. The speed of the sorting algorithms hasn't been normalized so as to allow user to compare the speeds of the various sorting algorithms
